@@ -1,3 +1,4 @@
+[![Gem Version](https://badge.fury.io/rb/schmitt-trigger.svg)](https://badge.fury.io/rb/schmitt-trigger)
 [![Build Status](https://travis-ci.org/gaganawhad/schmitt-trigger.svg?branch=master)](https://travis-ci.org/gaganawhad/schmitt-trigger)
 
 # SchmittTrigger
