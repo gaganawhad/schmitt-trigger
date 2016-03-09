@@ -1,6 +1,6 @@
 require 'spec_helper'
 
-describe Schmitt::Trigger do
+describe SchmittTrigger do
   it 'has a version number' do
     expect(Schmitt::Trigger::VERSION).not_to be nil
   end

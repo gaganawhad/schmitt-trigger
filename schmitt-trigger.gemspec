@@ -1,11 +1,11 @@
 # coding: utf-8
 lib = File.expand_path('../lib', __FILE__)
 $LOAD_PATH.unshift(lib) unless $LOAD_PATH.include?(lib)
-require 'schmitt/trigger/version'
+require 'schmitt_trigger/version'
 
 Gem::Specification.new do |spec|
   spec.name          = "schmitt-trigger"
-  spec.version       = Schmitt::Trigger::VERSION
+  spec.version       = SchmittTrigger::VERSION
   spec.authors       = ["Gagan Awhad"]
   spec.email         = ["gagan.a.awhad@gmail.com"]
 
