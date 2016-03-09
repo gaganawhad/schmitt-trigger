@@ -2,6 +2,7 @@
 [![Build Status](https://travis-ci.org/gaganawhad/schmitt-trigger.svg?branch=master)](https://travis-ci.org/gaganawhad/schmitt-trigger)
 [![Code Climate](https://codeclimate.com/github/gaganawhad/schmitt-trigger/badges/gpa.svg)](https://codeclimate.com/github/gaganawhad/schmitt-trigger)
 [![Test Coverage](https://codeclimate.com/github/gaganawhad/schmitt-trigger/badges/coverage.svg)](https://codeclimate.com/github/gaganawhad/schmitt-trigger/coverage)
+[![Dependency Status](https://gemnasium.com/gaganawhad/schmitt-trigger.svg)](https://gemnasium.com/gaganawhad/schmitt-trigger)
 
 # SchmittTrigger
 
