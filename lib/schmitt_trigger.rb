@@ -1,4 +1,4 @@
-require "schmitt_trigger/version"
+require 'schmitt_trigger/version'
 
 module SchmittTrigger
   # Your code goes here...
