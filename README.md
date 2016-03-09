@@ -1,6 +1,7 @@
 [![Gem Version](https://badge.fury.io/rb/schmitt-trigger.svg)](https://badge.fury.io/rb/schmitt-trigger)
 [![Build Status](https://travis-ci.org/gaganawhad/schmitt-trigger.svg?branch=master)](https://travis-ci.org/gaganawhad/schmitt-trigger)
 [![Code Climate](https://codeclimate.com/github/gaganawhad/schmitt-trigger/badges/gpa.svg)](https://codeclimate.com/github/gaganawhad/schmitt-trigger)
+[![Test Coverage](https://codeclimate.com/github/gaganawhad/schmitt-trigger/badges/coverage.svg)](https://codeclimate.com/github/gaganawhad/schmitt-trigger/coverage)
 
 # SchmittTrigger
 
